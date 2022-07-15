@@ -1,0 +1,28 @@
+.rowC {
+
+    background-color: #181357;
+    width: 450px;
+    height: 450px;
+    text-align: center;
+    position: relative;
+}
+
+.roeE {
+    position: absolute;
+    background-color: #181357;
+}
+.rowF{
+    position: relative;
+    padding:50px;
+}
+
+
+.rowD {
+    position: absolute;
+    margin-top: 10px;
+    background-color: #f7f5f4;
+    border-radius: 50% 50% 50% 50% / 2% 2% 2% 2%;
+    text-align: center;
+
+}
+
